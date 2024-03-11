@@ -35,5 +35,3 @@ Feel free to connect with me through my [LinkedIn](https://www.linkedin.com/in/b
 Let's innovate and learn together!
 
 ---
-
-Applying for the GitHub Student Developer Pack to leverage the amazing resources it offers for students like me, aiming to make a significant impact in the tech world. Excited about the journey ahead!
