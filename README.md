@@ -16,19 +16,21 @@ I'm on the lookout for opportunities that will challenge me and help me grow in 
 
 ## 🌱 I’m currently learning
 
-- Advanced algorithms and data structures
-- Full-stack development
-- Cloud computing and DevOps
+- Artificial Intelligence and Machine Learning models
+- Software Development & Engineering
+- Advanced Algorithms and Data Structures
+- Full-stack Development
+- Cloud Computing and DevOps
 
 ## 🛠 Skills
 
-- Programming Languages: Python, JavaScript, Java
-- Tools & Technologies: Git, Docker, Kubernetes, AWS
+- Programming Languages: Java, Python, C/C++, JavaScript & HTML/CSS, Assembly!
+- Tools & Technologies: Git, Docker, Notion, Microsoft Office, Adobe Suite
 - Soft Skills: Problem-solving, Teamwork, Effective Communication
 
 ## 📫 How to Reach Me
 
-Feel free to connect with me through my [LinkedIn](#) or drop me an email at `your-email@example.com`.
+Feel free to connect with me through my [LinkedIn](https://www.linkedin.com/in/behruzgurbanli/) or drop me an email at `behruzgurbanli@gmail.com`.
 
 Let's innovate and learn together!
 
