@@ -1,4 +1,4 @@
-# Hello, I'm Bahruz Gurbanli! 👋
+![image](https://github.com/behruzgurbanli/behruzgurbanli/assets/73311214/885ee896-b52b-4180-9797-8ef0b553ef7e)![image](https://github.com/behruzgurbanli/behruzgurbanli/assets/73311214/87f0c049-7b61-4869-b7b0-b4ea152c2173)![image](https://github.com/behruzgurbanli/behruzgurbanli/assets/73311214/712b36bf-7832-43f8-8b97-1ede8e24091a)# Hello, I'm Bahruz Gurbanli! 👋
 
 ## 🎓 About Me
 
@@ -7,6 +7,13 @@ I'm currently a Computer Science student at ADA University, deeply passionate ab
 ## 🔍 What I'm Seeking
 
 I'm on the lookout for opportunities that will challenge me and help me grow in the fields of CS and IT. Whether it's collaborating on groundbreaking projects, engaging in learning communities, or contributing to open-source, I'm all in!
+
+## 🏆 Activities & Awards
+
+- **Academic Excellence:** Certificated of Academic Excellence is hereby granted to in honor of the outstanding academic performance at ADA University qualifying for Dean’s List of Distinction & Lutfi-Zadeh scholarship
+- **Hackathon:** Certificated of Participation in Hackathon organized at by USG, Pasha Life & AzInTelecom
+- **Certificate & Trophy:** for appreciation of involvement in volunteering of Student Services at ADA University
+- **Martial Arts Championship Competition:** Winner of Eurasia and other Championship Competitions, holder of three belts in Martial Arts
 
 ## 💡 Interests
 
@@ -31,6 +38,29 @@ I'm on the lookout for opportunities that will challenge me and help me grow in 
 ## 📫 How to Reach Me
 
 Feel free to connect with me through my [LinkedIn](https://www.linkedin.com/in/behruzgurbanli/) or drop me an email at `behruzgurbanli@gmail.com`.
+
+## 🗣️ Languages
+
+🇦🇿 Azerbaijani (native); 🇺🇸 English (fluent); 🇷🇺Russian (intermediate)
+
+## 📚 Selected Coursework
+
+- **Programming Principles:** C & Java
+- **Data Structures & Algorithms**
+- **Calculus:** 1 & 2
+- **Computer Organization & Architecture**
+- **Digital Logic Design**
+- **Information Communication & Engineering**
+- **Discrete Structures**
+- **Theory of Computation**
+- **Computer Networks**
+- **Software Engineering**
+- **Operating Systems**
+- **Database Systems**
+- **Data & Computing Skills**
+- **Probability & Statistics**
+- and other related courses
+
 
 Let's innovate and learn together!
 
