@@ -1,4 +1,4 @@
-# Hello, I'm Bahruz Gurbanli! 👋
+![image](https://github.com/user-attachments/assets/8ded9113-69bd-4fa0-a7b6-ef24d3be9344)![image](https://github.com/user-attachments/assets/b61deb24-42a4-4ab9-877c-77aea8423d88)# Hello, I'm Bahruz Gurbanli! 👋
 
 ## 🎓 About Me
 
@@ -8,12 +8,29 @@ I'm currently a Computer Science student at ADA University, deeply passionate ab
 
 I'm on the lookout for opportunities that will challenge me and help me grow in the fields of CS and IT. Whether it's collaborating on groundbreaking projects, engaging in learning communities, or contributing to open-source, I'm all in!
 
+## 💼 Work Experience
+
+### Machine Learning / Data Engineer Intern
+**Neurotime AI** - June 2024 - Currently
+- Training machine learning models, deploying and experimenting different algorithms & models;
+- Research and Development of products over AI.
+- Data processing, collecting, maintenance;
+
+### Tutor/Mentor/TA
+**ADA University** - Sep 2022 - Currently
+- Working with students to enhance their understanding of fundamental programming concepts, explore advanced programming techniques and algorithms
+- Assisting groups of students in learning various programming languages and algorithms.
+- Working with professors, assisted them grading and examining quizzes, homework, exams, etc.
+- Assisting university students by delivering lectures.
+
 ## 🏆 Activities & Awards
 
+- **Technest:** Full scholarship for “Data Processing from Machine Learning to Deep Learning” Technical program by UFAZ University
+- **Technest:** Winner of “Advanced Backend & Microservices Development” Technical Program
 - **Academic Excellence:** Certificated of Academic Excellence is hereby granted to in honor of the outstanding academic performance at ADA University qualifying for Dean’s List of Distinction & Lutfi-Zadeh scholarship
 - **Hackathon:** Certificated of Participation in Hackathon organized at by USG, Pasha Life & AzInTelecom
+- **Undergraduate Student Government:** Certificated of outstanding contributions as BSCS Senator
 - **Certificate & Trophy:** for appreciation of involvement in volunteering of Student Services at ADA University
-- **Martial Arts Championship Competition:** Winner of Eurasia and other Championship Competitions, holder of three belts in Martial Arts
 
 ## 💡 Interests
 
@@ -23,17 +40,27 @@ I'm on the lookout for opportunities that will challenge me and help me grow in 
 
 ## 🌱 I’m currently learning
 
-- Artificial Intelligence and Machine Learning models
+- Data Science & Artificial Intelligence
+- Machine Learning/Deep Learning & Neural Networks
 - Software Development & Engineering
 - Advanced Algorithms and Data Structures
 - Full-stack Development
 - Cloud Computing and DevOps
 
-## 🛠 Skills
+## 🛠 General Skills
 
 - Programming Languages: Java, Python, C/C++, JavaScript & HTML/CSS, Assembly!
 - Tools & Technologies: Git, Docker, Notion, Microsoft Office, Adobe Suite
 - Soft Skills: Problem-solving, Teamwork, Effective Communication
+
+## 💻 Technical Skills
+
+- **Proficiency in Software & Microservices Development and Design:** Advanced Backend (Spring, APIs), Database Systems (SQL, PostgreSQL). Object Oriented Analysis and Design Patterns (CI/CD).
+- **Learning in Data Science & AI fields:** Python (e.g., Pandas, NumPy, Matplotlib, TensorFlow, Scikit-learn). Continuing on Machine Learning, Deep Learning, Computer Vision.
+- **Proficiency in Full Stack Development:** Java, Python, React.js, jQuery, HTML5 & CSS, SCSS, REST API (Unix, Git, GitHub, Docker).
+- **Proficiency in Docker:** Working with Containers and setting up servers.
+- **Experienced in C/C++:** Data Structures & Algorithms, Operating Systems & Design.
+- **Proficiency in Microsoft Office, Adobe Creative Suite and other tools.**
 
 ## 📫 How to Reach Me
 
@@ -41,7 +68,7 @@ Feel free to connect with me through my [LinkedIn](https://www.linkedin.com/in/b
 
 ## 🗣️ Languages
 
-🇦🇿 Azerbaijani (native); 🇺🇸 English (fluent); 🇷🇺Russian (intermediate)
+🇦🇿 Azerbaijani (native); 🇺🇸 English (fluent); 🇷🇺Russian (intermediate); 🇩🇪German (beginner)
 
 ## 📚 Selected Coursework
 
