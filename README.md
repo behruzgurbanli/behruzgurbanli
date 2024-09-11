@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/8ded9113-69bd-4fa0-a7b6-ef24d3be9344)![image](https://github.com/user-attachments/assets/b61deb24-42a4-4ab9-877c-77aea8423d88)# Hello, I'm Bahruz Gurbanli! 👋
+![image](https://github.com/user-attachments/assets/8ded9113-69bd-4fa0-a7b6-ef24d3be9344)![image](https://github.com/user-attachments/assets/b61deb24-42a4-4ab9-877c-77aea8423d88)
+# Hello, I'm Bahruz Gurbanli! 👋
 
 ## 🎓 About Me
 
