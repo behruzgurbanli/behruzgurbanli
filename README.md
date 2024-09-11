@@ -11,7 +11,7 @@ I'm on the lookout for opportunities that will challenge me and help me grow in 
 ## 💼 Work Experience
 
 ### Machine Learning / Data Engineer Intern
-**Neurotime AI** - June 2024 - Currently
+**Neurotime AI** - June 2024 - Sep 2024
 - Training machine learning models, deploying and experimenting different algorithms & models;
 - Research and Development of products over AI.
 - Data processing, collecting, maintenance;
@@ -74,9 +74,7 @@ Feel free to connect with me through my [LinkedIn](https://www.linkedin.com/in/b
 
 - **Programming Principles:** C & Java
 - **Data Structures & Algorithms**
-- **Calculus:** 1 & 2
 - **Computer Organization & Architecture**
-- **Digital Logic Design**
 - **Information Communication & Engineering**
 - **Discrete Structures**
 - **Theory of Computation**
@@ -86,6 +84,15 @@ Feel free to connect with me through my [LinkedIn](https://www.linkedin.com/in/b
 - **Database Systems**
 - **Data & Computing Skills**
 - **Probability & Statistics**
+- **Machine Learning**
+- **Artificial Intelligence**
+- **Big Data & Analytics**
+- **Senior Design Project (Thesis)**
+- **Computer Graphics**
+- **Data & Information Engineering**
+- **Calculus**
+- **Digital Logic Design**
+- **Mathematics/Physics courses**
 - and other related courses
 
 
