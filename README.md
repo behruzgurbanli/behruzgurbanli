@@ -28,7 +28,7 @@ I'm on the lookout for opportunities that will challenge me and help me grow in 
 - **Technest:** Full scholarship for “Data Processing from Machine Learning to Deep Learning” Technical program by UFAZ University
 - **Technest:** Winner of “Advanced Backend & Microservices Development” Technical Program
 - **Academic Excellence:** Certificated of Academic Excellence is hereby granted to in honor of the outstanding academic performance at ADA University qualifying for Dean’s List of Distinction & Lutfi-Zadeh scholarship
-- **Hackathon:** Certificated of Participation in Hackathon organized at by USG, Pasha Life & AzInTelecom
+- **Hackathon:** Certificated of Participation in Hackathon organized at by Pasha Life & AzInTelecom
 - **Undergraduate Student Government:** Certificated of outstanding contributions as BSCS Senator
 - **Certificate & Trophy:** for appreciation of involvement in volunteering of Student Services at ADA University
 
