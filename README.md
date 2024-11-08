@@ -95,7 +95,6 @@ Feel free to connect with me through my [LinkedIn](https://www.linkedin.com/in/b
 - **Mathematics/Physics courses**
 - and other related courses
 
-
 Let's innovate and learn together!
 
 ---
