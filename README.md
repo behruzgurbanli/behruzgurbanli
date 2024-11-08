@@ -14,7 +14,7 @@ I'm on the lookout for opportunities that will challenge me and help me grow in 
 **Neurotime AI** - June 2024 - Sep 2024
 - Training machine learning models, deploying and experimenting different algorithms & models;
 - Research and Development of products over AI.
-- Data processing, collecting, maintenance;
+- Data processing, collecting, maintenance
 
 ### Tutor/Mentor/TA
 **ADA University** - Sep 2022 - Currently
